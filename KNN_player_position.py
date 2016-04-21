@@ -11,7 +11,8 @@ import os
 import numpy as np
 import itertools
 
-os.chdir(r'C:\Users\danny\GA_DataScience\nhl_project')
+#os.chdir(r'C:\Users\danny\GA_DataScience\nhl_project')
+os.chdir(r'C:\Users\Dan-PC\GA_DataScience\nhl_project') #for desktop use
 
 #read in the data
 #mean stats seem to make more logical sense because they can be applied to any player regardles of the number of games played
@@ -129,4 +130,8 @@ for n in range(1,26):
                                                                       'n_neighbor': n, 
                                                                       'accuracy': acc}, ignore_index=True)
     
-pos_num_simplified_eval
+pos_num_simplified_eval.shape
+
+pos_num_simplified_eval.n_neighbor.unique #made it partially through neighbors = 1
+
+pos_num_simplified_eval.sort_values('accuracy', ascending = False).to_csv('knn_metrics_player_pos.csv')
