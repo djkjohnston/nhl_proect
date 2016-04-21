@@ -134,21 +134,28 @@ for i in list(player_season_mean_stats.index):
         
 player_season_mean_stats.head()
 
-#add games_played column to both summary dfs
+#add games_played and position column to both summary dfs
 player_season_sum_stats['games_played'] = np.NaN
 player_season_mean_stats['games_played'] = np.NaN
+player_season_sum_stats['position'] = np.NaN
+player_season_mean_stats['position'] = np.NaN
 
 #both DFs have the same indexes in the same order, so i can update both with one loop
 for i in player_season_sum_stats.index:
+    #games played
     x = len(player_game_stats[player_game_stats.player == i])
     player_season_sum_stats['games_played'][i] = x
     player_season_mean_stats['games_played'][i] = x
+    #position
+    player_season_sum_stats['position'][i] = player_game_stats[player_game_stats.player == i]['position'].values[0]
+    player_season_mean_stats['position'][i] = player_game_stats[player_game_stats.player == i]['position'].values[0]
+    
 #results in warnings, but seems to work?
 player_season_mean_stats.head()
 
 #add games played to both summary dfs
 
-
+player_season_mean_stats.position.unique()
 
 #save the file for later use
 player_game_stats.to_csv('player_game_stats.csv')
