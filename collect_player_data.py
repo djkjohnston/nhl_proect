@@ -35,7 +35,6 @@ df_20132014.head()
 
 game_rosters = pd.DataFrame(columns=['gameID','team_name','team_ice','player', 'position', 'stats'])
 
-
 for i in df_20132014.gameID:
     #read in game data
     with open('season20132014_games\game_' + i + '.json', 'r') as f:
@@ -45,7 +44,7 @@ for i in df_20132014.gameID:
         for k in game['liveData']['boxscore']['teams'][j]['skaters']:
             try:    
                 temp_stats = game['liveData']['boxscore']['teams'][j]['players']['ID' + str(k)]['stats']['skaterStats']
-            except KeyError:
+            except KeyError: #not all players have stats
                 temp_stats = np.NaN            
             
             game_rosters = game_rosters.append({'gameID':i, 
