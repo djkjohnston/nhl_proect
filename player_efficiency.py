@@ -9,8 +9,8 @@ import pandas as pd
 import os
 
 
-#os.chdir(r'C:\Users\danny\GA_DataScience\nhl_project') #laptop dir
-os.chdir(r'C:\Users\Dan-PC\GA_DataScience\nhl_project') #desktop dir
+os.chdir(r'C:\Users\danny\GA_DataScience\nhl_project') #laptop dir
+#os.chdir(r'C:\Users\Dan-PC\GA_DataScience\nhl_project') #desktop dir
 
 player_season_mean_stats = pd.read_csv('player_season_mean_stats.csv', index_col = 0)
 
@@ -320,7 +320,7 @@ def player_eff_trimmed_cluster(D):
     silhouette_score = metrics.silhouette_score(X_scaled, km.labels_)
     
     return {'features':str(D['features']), 'n_clusters': D['clusters'], 'silhouette': silhouette_score}
-
+#should have added cluster sizes
 scaler = StandardScaler()
 templist = [player_eff_trimmed_cluster(combination_list[0]), player_eff_trimmed_cluster(combination_list[-1])]
 
@@ -336,4 +336,4 @@ silhouette_df = [player_eff_trimmed_cluster(i) for i in combination_list]
 silhouette_df = pd.DataFrame(silhouette_df)
 
 silhouette_df.to_csv('silhouette_cluster_tests.csv')
-    
+player_eff_trimmed.to_csv('player_eff_trimmed.csv')
