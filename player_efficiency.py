@@ -242,6 +242,7 @@ player_eff_trimmed['sh_share_of_time'] = player_season_mean_stats_trimmed.shortH
 
 
 player_eff_trimmed.fillna(0, inplace=True)
+player_eff_trimmed.head()
 #and now for clustering
 scaler = StandardScaler()
 X  = player_eff_trimmed.drop(['pp_goals_per_min','pp_assists_per_min', 'pp_share_of_time','sh_share_of_time','sh_goals_per_min','sh_assists_per_min', 'faceOff_wins_per_attempt'], axis = 1)
