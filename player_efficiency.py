@@ -334,4 +334,6 @@ silhouette_df = []
 silhouette_df = [player_eff_trimmed_cluster(i) for i in combination_list]
 
 silhouette_df = pd.DataFrame(silhouette_df)
+
+silhouette_df.to_csv('silhouette_cluster_tests.csv')
     
