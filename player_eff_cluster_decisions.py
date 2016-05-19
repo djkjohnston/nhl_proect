@@ -12,8 +12,8 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 import json
 
-#os.chdir(r'C:\Users\danny\GA_DataScience\nhl_project') #laptop dir
-os.chdir(r'C:\Users\Dan-PC\GA_DataScience\nhl_project') #desktop dir
+os.chdir(r'C:\Users\danny\GA_DataScience\nhl_project') #laptop dir
+#os.chdir(r'C:\Users\Dan-PC\GA_DataScience\nhl_project') #desktop dir
 
 #read in silhouette results and clean features column. Should look for better writing in future
 silhouette_df = pd.read_csv('silhouette_cluster_tests.csv')
