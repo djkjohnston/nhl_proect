@@ -1,0 +1,501 @@
+,Unnamed: 0,features,largest_cluster,n_clusters,silhouette,smallest_cluster,n_features,rsme
+3158,3158,"timeOnIce_s, penaltyMinutes_per_min, faceOff_wins_per_attempt",249,5,0.387452276402,33,3,2.32762098893
+3232,3232,"blocks_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",336,5,0.378044561881,30,3,2.31987494682
+3205,3205,"goals_per_shot, hits_per_min, faceOff_wins_per_attempt",286,5,0.365154182099,50,3,2.32135391271
+5276,5276,"blocks_per_min, hits_per_min, faceOff_wins_per_attempt",252,7,0.352456535657,36,3,2.33083008074
+3187,3187,"shots_per_min, takeaways_per_min, faceOff_wins_per_attempt",298,5,0.347656074366,84,3,2.327301576
+4253,4253,"blocks_per_min, hits_per_min, faceOff_wins_per_attempt",250,6,0.344573228571,37,3,2.33188875838
+3149,3149,"timeOnIce_s, blocks_per_min, faceOff_wins_per_attempt",269,5,0.341535616521,105,3,2.33300086347
+3230,3230,"blocks_per_min, hits_per_min, faceOff_wins_per_attempt",286,5,0.339322177938,69,3,2.33416636362
+5266,5266,"assists_per_min, hits_per_min, faceOff_wins_per_attempt",172,7,0.338619621518,32,3,2.30598862528
+3208,3208,"goals_per_shot, takeaways_per_min, faceOff_wins_per_attempt",291,5,0.335731630065,50,3,2.3059510851
+3242,3242,"hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",245,5,0.333925286835,79,3,2.32884967248
+3138,3138,"timeOnIce_s, goals_per_shot, faceOff_wins_per_attempt",249,5,0.33362333882,68,3,2.31748436279
+4179,4179,"timeOnIce_s, hits_per_min, faceOff_wins_per_attempt",221,6,0.333265819072,49,3,2.33258472185
+5288,5288,"hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",216,7,0.333117662076,33,3,2.33396811425
+3213,3213,"assists_per_min, blocks_per_min, faceOff_wins_per_attempt",247,5,0.332967971808,33,3,2.3047521614
+3347,3347,"shots_per_min, goals_per_shot, penaltyMinutes_per_min, faceOff_wins_per_attempt",282,5,0.330938463415,31,4,2.31129395513
+3156,3156,"timeOnIce_s, hits_per_min, faceOff_wins_per_attempt",224,5,0.330408136745,86,3,2.33132303617
+3133,3133,"timeOnIce_s, goals_per_shot, blocks_per_min",278,5,0.32894501516,69,3,2.32508841055
+3185,3185,"shots_per_min, penaltyMinutes_per_min, takeaways_per_min",287,5,0.328845325101,33,3,2.32469240621
+6311,6311,"hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",180,8,0.327654131201,33,3,2.3343328687
+4250,4250,"blocks_per_min, giveaways_per_min, faceOff_wins_per_attempt",297,6,0.327523755854,38,3,2.3321590961
+3280,3280,"timeOnIce_s, goals_per_shot, blocks_per_min, penaltyMinutes_per_min",286,5,0.327501887098,30,4,2.31978015141
+4228,4228,"goals_per_shot, hits_per_min, faceOff_wins_per_attempt",231,6,0.325275798426,53,3,2.31652429892
+4265,4265,"hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",222,6,0.325172857062,50,3,2.33293535853
+3177,3177,"shots_per_min, blocks_per_min, faceOff_wins_per_attempt",231,5,0.324693953447,69,3,2.32868506974
+7334,7334,"hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",166,9,0.322020642692,32,3,2.33295890747
+3166,3166,"shots_per_min, goals_per_shot, faceOff_wins_per_attempt",206,5,0.321049153319,122,3,2.32052762206
+6289,6289,"assists_per_min, hits_per_min, faceOff_wins_per_attempt",162,8,0.320763130575,32,3,2.30184832786
+3316,3316,"timeOnIce_s, blocks_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",262,5,0.3203227303,32,4,2.32827061981
+6241,6241,"shots_per_min, assists_per_min, faceOff_wins_per_attempt",186,8,0.318773227466,30,3,2.28830880169
+3217,3217,"assists_per_min, giveaways_per_min, faceOff_wins_per_attempt",236,5,0.318316936677,35,3,2.30570540888
+5282,5282,"giveaways_per_min, hits_per_min, faceOff_wins_per_attempt",223,7,0.317984244425,34,3,2.33122645127
+4262,4262,"giveaways_per_min, takeaways_per_min, faceOff_wins_per_attempt",223,6,0.317045188314,34,3,2.32942527603
+8345,8345,"blocks_per_min, hits_per_min, faceOff_wins_per_attempt",197,10,0.31662264185,30,3,2.33403767351
+4243,4243,"assists_per_min, hits_per_min, faceOff_wins_per_attempt",180,6,0.316215929175,81,3,2.30278971222
+5218,5218,"shots_per_min, assists_per_min, faceOff_wins_per_attempt",187,7,0.315940910545,31,3,2.29402562559
+3153,3153,"timeOnIce_s, giveaways_per_min, faceOff_wins_per_attempt",239,5,0.315001179016,60,3,2.33034910223
+5259,5259,"assists_per_min, blocks_per_min, faceOff_wins_per_attempt",195,7,0.314491611544,33,3,2.29604680361
+5239,5239,"goals_per_shot, assists_per_min, faceOff_wins_per_attempt",183,7,0.314413319007,34,3,2.29444953136
+4200,4200,"shots_per_min, blocks_per_min, faceOff_wins_per_attempt",231,6,0.31415940275,66,3,2.32612842812
+4189,4189,"shots_per_min, goals_per_shot, faceOff_wins_per_attempt",198,6,0.314142002363,53,3,2.31867012142
+4204,4204,"shots_per_min, giveaways_per_min, faceOff_wins_per_attempt",215,6,0.313277028372,31,3,2.33199055581
+3325,3325,"timeOnIce_s, hits_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",303,5,0.313088866842,32,4,2.32897304429
+3220,3220,"assists_per_min, hits_per_min, faceOff_wins_per_attempt",232,5,0.312856058988,86,3,2.30655505097
+3383,3383,"shots_per_min, penaltyMinutes_per_min, takeaways_per_min, faceOff_wins_per_attempt",282,5,0.312827282879,32,4,2.32478856259
+6262,6262,"goals_per_shot, assists_per_min, faceOff_wins_per_attempt",178,8,0.312805166218,33,3,2.29449084348
+5223,5223,"shots_per_min, blocks_per_min, faceOff_wins_per_attempt",209,7,0.312640129729,30,3,2.32458152305
+4339,4339,"timeOnIce_s, blocks_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",261,6,0.312408802699,32,4,2.32993671103
+5244,5244,"goals_per_shot, blocks_per_min, faceOff_wins_per_attempt",230,7,0.312377680168,32,3,2.31684400268
+6282,6282,"assists_per_min, blocks_per_min, faceOff_wins_per_attempt",178,8,0.312247470282,33,3,2.29722967327
+8328,8328,"assists_per_min, blocks_per_min, faceOff_wins_per_attempt",134,10,0.311722964478,30,3,2.30734475852
+5269,5269,"assists_per_min, takeaways_per_min, faceOff_wins_per_attempt",196,7,0.311385750318,31,3,2.30356913896
+7312,7312,"assists_per_min, hits_per_min, faceOff_wins_per_attempt",154,9,0.310727399582,32,3,2.30636121219
+4256,4256,"blocks_per_min, takeaways_per_min, faceOff_wins_per_attempt",248,6,0.310046766357,61,3,2.33529807531
+7305,7305,"assists_per_min, blocks_per_min, faceOff_wins_per_attempt",175,9,0.309756911071,31,3,2.29600250447
+8357,8357,"hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",156,10,0.309266686616,31,3,2.32484427174
+7328,7328,"giveaways_per_min, hits_per_min, faceOff_wins_per_attempt",157,9,0.30925044516,30,3,2.33053350421
+3233,3233,"blocks_per_min, takeaways_per_min, faceOff_wins_per_attempt",267,5,0.309229961687,78,3,2.33346730117
+5233,5233,"shots_per_min, takeaways_per_min, faceOff_wins_per_attempt",205,7,0.309038067733,32,3,2.33627027607
+4207,4207,"shots_per_min, hits_per_min, faceOff_wins_per_attempt",202,6,0.308070297143,58,3,2.33007121792
+3227,3227,"blocks_per_min, giveaways_per_min, faceOff_wins_per_attempt",287,5,0.308032904258,92,3,2.32798817996
+3164,3164,"shots_per_min, goals_per_shot, penaltyMinutes_per_min",242,5,0.307902005932,30,3,2.30669074359
+3159,3159,"timeOnIce_s, takeaways_per_min, faceOff_wins_per_attempt",213,5,0.307890941149,109,3,2.32608223492
+4225,4225,"goals_per_shot, giveaways_per_min, faceOff_wins_per_attempt",202,6,0.307624696051,34,3,2.30232719546
+4240,4240,"assists_per_min, giveaways_per_min, faceOff_wins_per_attempt",234,6,0.307461859967,31,3,2.30924209298
+5212,5212,"shots_per_min, goals_per_shot, faceOff_wins_per_attempt",197,7,0.307296440645,40,3,2.31767465271
+4221,4221,"goals_per_shot, blocks_per_min, faceOff_wins_per_attempt",254,6,0.307155208011,34,3,2.3248081725
+3184,3184,"shots_per_min, hits_per_min, faceOff_wins_per_attempt",205,5,0.306963750082,83,3,2.33120021531
+4303,4303,"timeOnIce_s, goals_per_shot, blocks_per_min, penaltyMinutes_per_min",273,6,0.306649780153,31,4,2.31922601878
+6246,6246,"shots_per_min, blocks_per_min, faceOff_wins_per_attempt",174,8,0.30647599748,30,3,2.3212025739
+4236,4236,"assists_per_min, blocks_per_min, faceOff_wins_per_attempt",221,6,0.306407198028,95,3,2.30071171456
+7285,7285,"goals_per_shot, assists_per_min, faceOff_wins_per_attempt",163,9,0.306196027098,32,3,2.29605269575
+4210,4210,"shots_per_min, takeaways_per_min, faceOff_wins_per_attempt",210,6,0.305640990075,89,3,2.3289089677
+3124,3124,"timeOnIce_s, shots_per_min, goals_per_shot",217,5,0.305311139873,103,3,2.30824125136
+3236,3236,"giveaways_per_min, hits_per_min, faceOff_wins_per_attempt",224,5,0.305137009791,92,3,2.33468642958
+6292,6292,"assists_per_min, takeaways_per_min, faceOff_wins_per_attempt",196,8,0.305114318367,32,3,2.30485062154
+3146,3146,"timeOnIce_s, blocks_per_min, hits_per_min",280,5,0.304990341864,77,3,2.32777194538
+6302,6302,"blocks_per_min, takeaways_per_min, faceOff_wins_per_attempt",189,8,0.304948839972,31,3,2.3251629401
+5279,5279,"blocks_per_min, takeaways_per_min, faceOff_wins_per_attempt",204,7,0.304866435364,31,3,2.33432724992
+3312,3312,"timeOnIce_s, blocks_per_min, hits_per_min, penaltyMinutes_per_min",341,5,0.304533027877,31,4,2.32801162224
+4246,4246,"assists_per_min, takeaways_per_min, faceOff_wins_per_attempt",204,6,0.304252202204,85,3,2.30799143488
+3223,3223,"assists_per_min, takeaways_per_min, faceOff_wins_per_attempt",212,5,0.304125524252,110,3,2.31192354682
+3193,3193,"goals_per_shot, assists_per_min, faceOff_wins_per_attempt",182,5,0.303997850803,125,3,2.30257612005
+4259,4259,"giveaways_per_min, hits_per_min, faceOff_wins_per_attempt",223,6,0.30332601198,58,3,2.33413765698
+4195,4195,"shots_per_min, assists_per_min, faceOff_wins_per_attempt",189,6,0.302882751288,82,3,2.29746360402
+5190,5190,"timeOnIce_s, assists_per_min, faceOff_wins_per_attempt",170,7,0.302688568282,66,3,2.30325877029
+5251,5251,"goals_per_shot, hits_per_min, faceOff_wins_per_attempt",227,7,0.302339971771,52,3,2.32138496566
+8292,8292,"shots_per_min, blocks_per_min, faceOff_wins_per_attempt",165,10,0.302259259061,30,3,2.32261334043
+3172,3172,"shots_per_min, assists_per_min, faceOff_wins_per_attempt",198,5,0.302082906343,112,3,2.2988545692
+4176,4176,"timeOnIce_s, giveaways_per_min, faceOff_wins_per_attempt",184,6,0.301833006826,47,3,2.3315947882
+4216,4216,"goals_per_shot, assists_per_min, faceOff_wins_per_attempt",189,6,0.30159203385,43,3,2.30130379383
+6256,6256,"shots_per_min, takeaways_per_min, faceOff_wins_per_attempt",169,8,0.301438125552,33,3,2.33248689821
+7325,7325,"blocks_per_min, takeaways_per_min, faceOff_wins_per_attempt",151,9,0.300603588345,31,3,2.33520608496
+3198,3198,"goals_per_shot, blocks_per_min, faceOff_wins_per_attempt",268,5,0.300435018455,93,3,2.32542791802
+3327,3327,"timeOnIce_s, penaltyMinutes_per_min, takeaways_per_min, faceOff_wins_per_attempt",287,5,0.300363280165,33,4,2.32314933071
+3282,3282,"timeOnIce_s, goals_per_shot, blocks_per_min, faceOff_wins_per_attempt",254,5,0.300000490679,76,4,2.32667991216
+3239,3239,"giveaways_per_min, takeaways_per_min, faceOff_wins_per_attempt",245,5,0.299071583031,99,3,2.33129632725
+3306,3306,"timeOnIce_s, assists_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",233,5,0.298948299004,34,4,2.30219535317
+3131,3131,"timeOnIce_s, shots_per_min, faceOff_wins_per_attempt",191,5,0.298832808968,128,3,2.33005929027
+3248,3248,"timeOnIce_s, shots_per_min, goals_per_shot, penaltyMinutes_per_min",243,5,0.298621535674,32,4,2.31655306713
+8281,8281,"shots_per_min, goals_per_shot, faceOff_wins_per_attempt",118,10,0.297009983955,31,3,2.30121089875
+4182,4182,"timeOnIce_s, takeaways_per_min, faceOff_wins_per_attempt",187,6,0.296383013927,72,3,2.32321056657
+4155,4155,"timeOnIce_s, goals_per_shot, assists_per_min",197,6,0.295056184342,54,3,2.30170208829
+3295,3295,"timeOnIce_s, assists_per_min, blocks_per_min, penaltyMinutes_per_min",268,5,0.294994403642,34,4,2.30508972662
+4314,4314,"timeOnIce_s, goals_per_shot, penaltyMinutes_per_min, faceOff_wins_per_attempt",227,6,0.294594249622,30,4,2.31083766889
+4156,4156,"timeOnIce_s, goals_per_shot, blocks_per_min",233,6,0.294513037164,43,3,2.32171840664
+3289,3289,"timeOnIce_s, goals_per_shot, hits_per_min, faceOff_wins_per_attempt",270,5,0.294440078213,81,4,2.31276236531
+5178,5178,"timeOnIce_s, goals_per_shot, assists_per_min",183,7,0.293951942468,56,3,2.29921020404
+3144,3144,"timeOnIce_s, assists_per_min, faceOff_wins_per_attempt",190,5,0.293763581143,137,3,2.3076169829
+5227,5227,"shots_per_min, giveaways_per_min, faceOff_wins_per_attempt",183,7,0.293468164818,31,3,2.33458908514
+3181,3181,"shots_per_min, giveaways_per_min, faceOff_wins_per_attempt",219,5,0.29298723947,94,3,2.33253721958
+3202,3202,"goals_per_shot, giveaways_per_min, faceOff_wins_per_attempt",204,5,0.292955362758,115,3,2.31043635109
+3237,3237,"giveaways_per_min, penaltyMinutes_per_min, takeaways_per_min",282,5,0.292882134982,32,3,2.32604855463
+4167,4167,"timeOnIce_s, assists_per_min, faceOff_wins_per_attempt",205,6,0.292695522821,79,3,2.30446473049
+4154,4154,"timeOnIce_s, shots_per_min, faceOff_wins_per_attempt",186,6,0.292548316507,85,3,2.33027304749
+3291,3291,"timeOnIce_s, goals_per_shot, penaltyMinutes_per_min, faceOff_wins_per_attempt",283,5,0.29250297611,32,4,2.31625489767
+3473,3473,"timeOnIce_s, shots_per_min, goals_per_shot, penaltyMinutes_per_min, faceOff_wins_per_attempt",258,5,0.29249130093,32,5,2.3177929606
+4162,4162,"timeOnIce_s, assists_per_min, blocks_per_min",213,6,0.291990180634,52,3,2.30755593514
+4218,4218,"goals_per_shot, blocks_per_min, hits_per_min",264,6,0.291863731127,56,3,2.32379659
+6250,6250,"shots_per_min, giveaways_per_min, faceOff_wins_per_attempt",148,8,0.29162014497,30,3,2.33322059241
+6222,6222,"timeOnIce_s, giveaways_per_min, faceOff_wins_per_attempt",157,8,0.291036567088,35,3,2.33037045973
+3195,3195,"goals_per_shot, blocks_per_min, hits_per_min",282,5,0.290906188022,61,3,2.32588765339
+5177,5177,"timeOnIce_s, shots_per_min, faceOff_wins_per_attempt",144,7,0.290897625376,85,3,2.33230216513
+3372,3372,"shots_per_min, blocks_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",260,5,0.29036399496,31,4,2.3252968387
+6201,6201,"timeOnIce_s, goals_per_shot, assists_per_min",172,8,0.290230095785,39,3,2.30051372776
+8338,8338,"assists_per_min, takeaways_per_min, faceOff_wins_per_attempt",134,10,0.290197457041,30,3,2.29947856543
+7269,7269,"shots_per_min, blocks_per_min, faceOff_wins_per_attempt",174,9,0.289988621924,30,3,2.32149403448
+3345,3345,"shots_per_min, goals_per_shot, hits_per_min, faceOff_wins_per_attempt",269,5,0.289811734231,91,4,2.31731026999
+3362,3362,"shots_per_min, assists_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",252,5,0.289751944844,30,4,2.29359841167
+3270,3270,"timeOnIce_s, shots_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",248,5,0.289443295714,34,4,2.3201559856
+3343,3343,"shots_per_min, goals_per_shot, hits_per_min, penaltyMinutes_per_min",294,5,0.288907732941,30,4,2.32079062343
+7315,7315,"assists_per_min, takeaways_per_min, faceOff_wins_per_attempt",166,9,0.288864969058,30,3,2.29593628482
+3132,3132,"timeOnIce_s, goals_per_shot, assists_per_min",209,5,0.28864146375,135,3,2.3042812838
+5263,5263,"assists_per_min, giveaways_per_min, faceOff_wins_per_attempt",193,7,0.288056893158,31,3,2.30212900112
+7224,7224,"timeOnIce_s, goals_per_shot, assists_per_min",157,9,0.287776972685,37,3,2.30368696478
+5199,5199,"timeOnIce_s, giveaways_per_min, faceOff_wins_per_attempt",174,7,0.28714693975,35,3,2.33144279834
+3134,3134,"timeOnIce_s, goals_per_shot, giveaways_per_min",265,5,0.286773316923,69,3,2.31978865529
+6215,6215,"timeOnIce_s, blocks_per_min, hits_per_min",142,8,0.28656669973,56,3,2.33135959619
+3348,3348,"shots_per_min, goals_per_shot, takeaways_per_min, faceOff_wins_per_attempt",279,5,0.286537960216,78,4,2.31400862784
+3174,3174,"shots_per_min, blocks_per_min, hits_per_min",220,5,0.286461340071,63,3,2.32314805579
+4231,4231,"goals_per_shot, takeaways_per_min, faceOff_wins_per_attempt",206,6,0.286189566157,50,3,2.31200861989
+7238,7238,"timeOnIce_s, blocks_per_min, hits_per_min",142,9,0.285516495589,37,3,2.33363757822
+3206,3206,"goals_per_shot, penaltyMinutes_per_min, takeaways_per_min",242,5,0.28527715116,31,3,2.30223153566
+3542,3542,"timeOnIce_s, goals_per_shot, hits_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",267,5,0.284131188431,31,5,2.31387613724
+3137,3137,"timeOnIce_s, goals_per_shot, takeaways_per_min",224,5,0.283563865619,98,3,2.32207185006
+3139,3139,"timeOnIce_s, assists_per_min, blocks_per_min",223,5,0.283552801251,115,3,2.30464669349
+3395,3395,"goals_per_shot, assists_per_min, hits_per_min, faceOff_wins_per_attempt",278,5,0.283401690345,70,4,2.29942670482
+4305,4305,"timeOnIce_s, goals_per_shot, blocks_per_min, faceOff_wins_per_attempt",253,6,0.283076754864,67,4,2.32764760705
+5256,5256,"assists_per_min, blocks_per_min, hits_per_min",169,7,0.282924717364,53,3,2.30098357728
+3135,3135,"timeOnIce_s, goals_per_shot, hits_per_min",246,5,0.282711109598,87,3,2.30542624743
+4345,4345,"timeOnIce_s, giveaways_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",229,6,0.282694233824,33,4,2.32575147434
+4158,4158,"timeOnIce_s, goals_per_shot, hits_per_min",225,6,0.28264614107,42,3,2.30406100967
+3407,3407,"goals_per_shot, blocks_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",286,5,0.281675766184,30,4,2.31842725863
+3259,3259,"timeOnIce_s, shots_per_min, blocks_per_min, penaltyMinutes_per_min",261,5,0.281611756763,35,4,2.32226712694
+3572,3572,"timeOnIce_s, blocks_per_min, hits_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",338,5,0.280856373288,32,5,2.32867394951
+3437,3437,"assists_per_min, hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",266,5,0.280704034717,88,4,2.31480557515
+3224,3224,"blocks_per_min, giveaways_per_min, hits_per_min",277,5,0.280691737759,66,3,2.32857003885
+3462,3462,"timeOnIce_s, shots_per_min, goals_per_shot, blocks_per_min, penaltyMinutes_per_min",242,5,0.280123247339,31,5,2.31684607994
+3160,3160,"shots_per_min, goals_per_shot, assists_per_min",210,5,0.279390758649,107,3,2.296157901
+3729,3729,"timeOnIce_s, shots_per_min, goals_per_shot, blocks_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",258,5,0.279347854305,31,6,2.31824997575
+3398,3398,"goals_per_shot, assists_per_min, takeaways_per_min, faceOff_wins_per_attempt",284,5,0.279320732901,91,4,2.29608103665
+3612,3612,"shots_per_min, goals_per_shot, hits_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",282,5,0.279188239409,31,5,2.3218011191
+3322,3322,"timeOnIce_s, giveaways_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",246,5,0.278970345534,33,4,2.32533919974
+3642,3642,"shots_per_min, blocks_per_min, hits_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",262,5,0.278886073917,30,5,2.32567330941
+5192,5192,"timeOnIce_s, blocks_per_min, hits_per_min",147,7,0.27875666036,57,3,2.32794750982
+3125,3125,"timeOnIce_s, shots_per_min, assists_per_min",213,5,0.278718082565,112,3,2.30518919383
+3286,3286,"timeOnIce_s, goals_per_shot, giveaways_per_min, faceOff_wins_per_attempt",262,5,0.27853871758,63,4,2.32052039896
+5181,5181,"timeOnIce_s, goals_per_shot, hits_per_min",220,7,0.278396843936,43,3,2.3040006327
+3145,3145,"timeOnIce_s, blocks_per_min, giveaways_per_min",259,5,0.278285269715,102,3,2.33699514367
+3279,3279,"timeOnIce_s, goals_per_shot, blocks_per_min, hits_per_min",254,5,0.278023142771,81,4,2.31374047348
+4147,4147,"timeOnIce_s, shots_per_min, goals_per_shot",199,6,0.277746451394,89,3,2.31229493635
+5172,5172,"timeOnIce_s, shots_per_min, blocks_per_min",194,7,0.277495902487,80,3,2.32668432837
+3148,3148,"timeOnIce_s, blocks_per_min, takeaways_per_min",245,5,0.277420051216,110,3,2.33436345299
+3141,3141,"timeOnIce_s, assists_per_min, hits_per_min",246,5,0.277341285182,87,3,2.29673045065
+3439,3439,"blocks_per_min, giveaways_per_min, hits_per_min, penaltyMinutes_per_min",313,5,0.277269250369,30,4,2.32878194167
+4350,4350,"timeOnIce_s, penaltyMinutes_per_min, takeaways_per_min, faceOff_wins_per_attempt",207,6,0.277195552255,32,4,2.32148182126
+5360,5360,"timeOnIce_s, blocks_per_min, hits_per_min, faceOff_wins_per_attempt",224,7,0.276880223968,44,4,2.33517249635
+5170,5170,"timeOnIce_s, shots_per_min, goals_per_shot",167,7,0.276226435111,62,3,2.31053965057
+3297,3297,"timeOnIce_s, assists_per_min, blocks_per_min, faceOff_wins_per_attempt",256,5,0.275743010278,94,4,2.30934539478
+4149,4149,"timeOnIce_s, shots_per_min, blocks_per_min",201,6,0.275525407325,93,3,2.3279836418
+4184,4184,"shots_per_min, goals_per_shot, blocks_per_min",201,6,0.275501548846,90,3,2.31043460758
+4171,4171,"timeOnIce_s, blocks_per_min, takeaways_per_min",228,6,0.275048123579,85,3,2.33499418807
+3382,3382,"shots_per_min, hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",276,5,0.274888992618,101,4,2.32723005844
+4247,4247,"blocks_per_min, giveaways_per_min, hits_per_min",203,6,0.274813590706,33,3,2.33202327384
+6208,6208,"timeOnIce_s, assists_per_min, blocks_per_min",189,8,0.274698940388,49,3,2.30558711522
+3644,3644,"shots_per_min, blocks_per_min, penaltyMinutes_per_min, takeaways_per_min, faceOff_wins_per_attempt",272,5,0.27468034965,31,5,2.32461798736
+3183,3183,"shots_per_min, hits_per_min, takeaways_per_min",261,5,0.274675880599,86,3,2.32699927981
+5174,5174,"timeOnIce_s, shots_per_min, hits_per_min",195,7,0.274247651635,53,3,2.32944858127
+3336,3336,"shots_per_min, goals_per_shot, blocks_per_min, penaltyMinutes_per_min",228,5,0.274166158959,30,4,2.30857655015
+3531,3531,"timeOnIce_s, goals_per_shot, blocks_per_min, hits_per_min, faceOff_wins_per_attempt",252,5,0.274008919237,75,5,2.31626566524
+5275,5275,"blocks_per_min, hits_per_min, takeaways_per_min",193,7,0.273588327609,57,3,2.33276470094
+3403,3403,"goals_per_shot, blocks_per_min, hits_per_min, penaltyMinutes_per_min",302,5,0.273310252389,31,4,2.31889996789
+4151,4151,"timeOnIce_s, shots_per_min, hits_per_min",203,6,0.27329869157,68,3,2.32959901793
+5220,5220,"shots_per_min, blocks_per_min, hits_per_min",191,7,0.273257878369,46,3,2.32614053955
+4148,4148,"timeOnIce_s, shots_per_min, assists_per_min",165,6,0.273127447933,102,3,2.3037879505
+4271,4271,"timeOnIce_s, shots_per_min, goals_per_shot, penaltyMinutes_per_min",200,6,0.273094097583,30,4,2.30469538562
+4337,4337,"timeOnIce_s, blocks_per_min, hits_per_min, faceOff_wins_per_attempt",228,6,0.272835696903,82,4,2.33028064173
+3417,3417,"goals_per_shot, hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",271,5,0.272798769674,94,4,2.31101712572
+3405,3405,"goals_per_shot, blocks_per_min, hits_per_min, faceOff_wins_per_attempt",300,5,0.272320467453,73,4,2.3307446893
+4160,4160,"timeOnIce_s, goals_per_shot, takeaways_per_min",195,6,0.272271087926,44,3,2.31572800389
+6195,6195,"timeOnIce_s, shots_per_min, blocks_per_min",185,8,0.271678524167,78,3,2.32701007126
+3245,3245,"timeOnIce_s, shots_per_min, goals_per_shot, blocks_per_min",245,5,0.271665036009,97,4,2.32022890503
+3171,3171,"shots_per_min, assists_per_min, takeaways_per_min",261,5,0.271524544289,87,3,2.29727303623
+6193,6193,"timeOnIce_s, shots_per_min, goals_per_shot",168,8,0.271512120735,59,3,2.30830813835
+3443,3443,"blocks_per_min, giveaways_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",294,5,0.271486913611,31,4,2.32639447516
+5194,5194,"timeOnIce_s, blocks_per_min, takeaways_per_min",214,7,0.271154627353,72,3,2.33243325142
+3128,3128,"timeOnIce_s, shots_per_min, hits_per_min",216,5,0.27114979584,86,3,2.3197591139
+3261,3261,"timeOnIce_s, shots_per_min, blocks_per_min, faceOff_wins_per_attempt",257,5,0.271057194057,109,4,2.33002952671
+3263,3263,"timeOnIce_s, shots_per_min, giveaways_per_min, penaltyMinutes_per_min",253,5,0.271038802038,35,4,2.32381106127
+6197,6197,"timeOnIce_s, shots_per_min, hits_per_min",158,8,0.270944963208,37,3,2.32661587652
+3210,3210,"assists_per_min, blocks_per_min, hits_per_min",238,5,0.270855100031,104,3,2.30315718283
+3278,3278,"timeOnIce_s, goals_per_shot, blocks_per_min, giveaways_per_min",277,5,0.27078496315,35,4,2.3194611346
+3326,3326,"timeOnIce_s, hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",278,5,0.270623052464,83,4,2.32994911423
+6204,6204,"timeOnIce_s, goals_per_shot, hits_per_min",138,8,0.26981070191,40,3,2.31716402327
+5207,5207,"shots_per_min, goals_per_shot, blocks_per_min",180,7,0.269795186228,48,3,2.31489002186
+3317,3317,"timeOnIce_s, blocks_per_min, takeaways_per_min, faceOff_wins_per_attempt",227,5,0.269595631468,90,4,2.33096373882
+3126,3126,"timeOnIce_s, shots_per_min, blocks_per_min",237,5,0.269383644802,109,3,2.33045534917
+3701,3701,"blocks_per_min, giveaways_per_min, hits_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",321,5,0.269275504683,31,5,2.32837150896
+7220,7220,"timeOnIce_s, shots_per_min, hits_per_min",158,9,0.268926667385,38,3,2.32069477335
+4252,4252,"blocks_per_min, hits_per_min, takeaways_per_min",191,6,0.268895378772,72,3,2.33431242046
+3315,3315,"timeOnIce_s, blocks_per_min, penaltyMinutes_per_min, takeaways_per_min",246,5,0.268864647953,34,4,2.32665488934
+5206,5206,"shots_per_min, goals_per_shot, assists_per_min",199,7,0.268822742624,35,3,2.29192534346
+3368,3368,"shots_per_min, blocks_per_min, hits_per_min, penaltyMinutes_per_min",253,5,0.268369237731,30,4,2.32123847572
+8261,8261,"timeOnIce_s, blocks_per_min, hits_per_min",140,10,0.268232760314,43,3,2.32648972217
+3165,3165,"shots_per_min, goals_per_shot, takeaways_per_min",263,5,0.26817527757,96,3,2.31521653334
+5179,5179,"timeOnIce_s, goals_per_shot, blocks_per_min",183,7,0.268043412202,50,3,2.3193586601
+3601,3601,"shots_per_min, goals_per_shot, blocks_per_min, hits_per_min, faceOff_wins_per_attempt",259,5,0.268008226641,83,5,2.32512784647
+5270,5270,"blocks_per_min, giveaways_per_min, hits_per_min",189,7,0.267614932167,33,3,2.33536268812
+7218,7218,"timeOnIce_s, shots_per_min, blocks_per_min",178,9,0.26752561378,56,3,2.32595962093
+4178,4178,"timeOnIce_s, hits_per_min, takeaways_per_min",217,6,0.267513932334,66,3,2.33527067694
+3294,3294,"timeOnIce_s, assists_per_min, blocks_per_min, hits_per_min",238,5,0.267425136716,107,4,2.30944269467
+6194,6194,"timeOnIce_s, shots_per_min, assists_per_min",151,8,0.267386279525,54,3,2.29159984022
+7225,7225,"timeOnIce_s, goals_per_shot, blocks_per_min",161,9,0.267142604175,38,3,2.31244923218
+4213,4213,"goals_per_shot, assists_per_min, hits_per_min",224,6,0.266993467005,74,3,2.29617247151
+3161,3161,"shots_per_min, goals_per_shot, blocks_per_min",223,5,0.26684939605,111,3,2.31027206813
+4576,4576,"timeOnIce_s, assists_per_min, blocks_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",248,6,0.266791020023,33,5,2.30581308322
+3277,3277,"timeOnIce_s, goals_per_shot, assists_per_min, faceOff_wins_per_attempt",229,5,0.266653017038,88,4,2.30313923814
+4196,4196,"shots_per_min, blocks_per_min, giveaways_per_min",183,6,0.266587048455,32,3,2.33166614439
+3192,3192,"goals_per_shot, assists_per_min, takeaways_per_min",261,5,0.266496055909,113,3,2.30380745867
+3309,3309,"timeOnIce_s, blocks_per_min, giveaways_per_min, penaltyMinutes_per_min",288,5,0.266493748988,36,4,2.32669494267
+4211,4211,"goals_per_shot, assists_per_min, blocks_per_min",180,6,0.266201084257,76,3,2.30082779768
+3275,3275,"timeOnIce_s, goals_per_shot, assists_per_min, penaltyMinutes_per_min",205,5,0.266131311075,35,4,2.29688756412
+6224,6224,"timeOnIce_s, hits_per_min, takeaways_per_min",164,8,0.266105735874,48,3,2.32416261713
+3562,3562,"timeOnIce_s, assists_per_min, hits_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",263,5,0.266079116954,30,5,2.30261064051
+3425,3425,"assists_per_min, blocks_per_min, hits_per_min, faceOff_wins_per_attempt",222,5,0.265851819612,90,4,2.31108977862
+3194,3194,"goals_per_shot, blocks_per_min, giveaways_per_min",219,5,0.265766053195,87,3,2.30820417877
+4233,4233,"assists_per_min, blocks_per_min, hits_per_min",189,6,0.265754347897,53,3,2.30211976355
+3719,3719,"timeOnIce_s, shots_per_min, goals_per_shot, assists_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",251,5,0.265633777757,32,6,2.30422885847
+3250,3250,"timeOnIce_s, shots_per_min, goals_per_shot, faceOff_wins_per_attempt",240,5,0.265551775897,97,4,2.32085413805
+5229,5229,"shots_per_min, hits_per_min, takeaways_per_min",209,7,0.265541894263,50,3,2.33282256443
+3553,3553,"timeOnIce_s, assists_per_min, blocks_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",256,5,0.265538338029,33,5,2.30311485857
+4302,4302,"timeOnIce_s, goals_per_shot, blocks_per_min, hits_per_min",236,6,0.265475013241,54,4,2.31998662774
+3229,3229,"blocks_per_min, hits_per_min, takeaways_per_min",249,5,0.265181934774,109,3,2.33512746172
+5171,5171,"timeOnIce_s, shots_per_min, assists_per_min",169,7,0.265045556946,59,3,2.29510313118
+3130,3130,"timeOnIce_s, shots_per_min, takeaways_per_min",203,5,0.265005576803,129,3,2.33148882661
+4312,4312,"timeOnIce_s, goals_per_shot, hits_per_min, faceOff_wins_per_attempt",243,6,0.26491267819,60,4,2.31955445165
+3155,3155,"timeOnIce_s, hits_per_min, takeaways_per_min",226,5,0.264848356414,98,3,2.33180746311
+6243,6243,"shots_per_min, blocks_per_min, hits_per_min",155,8,0.2644309841,39,3,2.32217912641
+3656,3656,"goals_per_shot, assists_per_min, blocks_per_min, hits_per_min, faceOff_wins_per_attempt",262,5,0.264225947633,74,5,2.3071197403
+6202,6202,"timeOnIce_s, goals_per_shot, blocks_per_min",160,8,0.264036125938,36,3,2.32101028352
+3599,3599,"shots_per_min, goals_per_shot, blocks_per_min, hits_per_min, penaltyMinutes_per_min",280,5,0.263988317062,30,5,2.3177795395
+3574,3574,"timeOnIce_s, blocks_per_min, penaltyMinutes_per_min, takeaways_per_min, faceOff_wins_per_attempt",259,5,0.263902350207,33,5,2.32831184564
+4197,4197,"shots_per_min, blocks_per_min, hits_per_min",211,6,0.263862260039,57,3,2.32236850246
+4169,4169,"timeOnIce_s, blocks_per_min, hits_per_min",175,6,0.263798789756,61,3,2.33103707313
+8289,8289,"shots_per_min, blocks_per_min, hits_per_min",130,10,0.263725486227,33,3,2.32375586858
+3143,3143,"timeOnIce_s, assists_per_min, takeaways_per_min",210,5,0.263536697797,88,3,2.31231192702
+6212,6212,"timeOnIce_s, assists_per_min, takeaways_per_min",160,8,0.263446961952,41,3,2.31160411634
+7247,7247,"timeOnIce_s, hits_per_min, takeaways_per_min",159,9,0.263387040525,42,3,2.32729857877
+4183,4183,"shots_per_min, goals_per_shot, assists_per_min",191,6,0.263375869258,99,3,2.29275349065
+3266,3266,"timeOnIce_s, shots_per_min, hits_per_min, penaltyMinutes_per_min",231,5,0.263326125363,30,4,2.32117786344
+5183,5183,"timeOnIce_s, goals_per_shot, takeaways_per_min",206,7,0.263301247928,42,3,2.31516158816
+8250,8250,"timeOnIce_s, goals_per_shot, hits_per_min",139,10,0.26324386546,36,3,2.30802447505
+4309,4309,"timeOnIce_s, goals_per_shot, giveaways_per_min, faceOff_wins_per_attempt",252,6,0.2632136269,54,4,2.31628147203
+6298,6298,"blocks_per_min, hits_per_min, takeaways_per_min",177,8,0.263085702104,36,3,2.3315495228
+4164,4164,"timeOnIce_s, assists_per_min, hits_per_min",176,6,0.262880510777,65,3,2.30295383601
+3546,3546,"timeOnIce_s, assists_per_min, blocks_per_min, giveaways_per_min, penaltyMinutes_per_min",268,5,0.262839338284,35,5,2.30116799193
+5451,5451,"goals_per_shot, blocks_per_min, hits_per_min, faceOff_wins_per_attempt",239,7,0.262430037393,34,4,2.32609164694
+3188,3188,"goals_per_shot, assists_per_min, blocks_per_min",215,5,0.262178314245,101,3,2.29840861374
+3507,3507,"timeOnIce_s, shots_per_min, hits_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",267,5,0.262076289129,31,5,2.32520687224
+3269,3269,"timeOnIce_s, shots_per_min, penaltyMinutes_per_min, takeaways_per_min",236,5,0.261844751185,35,4,2.32244896442
+3415,3415,"goals_per_shot, hits_per_min, penaltyMinutes_per_min, takeaways_per_min",307,5,0.261519981778,31,4,2.3148033346
+4186,4186,"shots_per_min, goals_per_shot, hits_per_min",201,6,0.261407444965,67,3,2.31246011241
+3226,3226,"blocks_per_min, giveaways_per_min, takeaways_per_min",275,5,0.261305082917,101,3,2.3295998014
+4206,4206,"shots_per_min, hits_per_min, takeaways_per_min",218,6,0.261228823939,71,3,2.33194622525
+4199,4199,"shots_per_min, blocks_per_min, takeaways_per_min",198,6,0.261097928166,78,3,2.32636811049
+3212,3212,"assists_per_min, blocks_per_min, takeaways_per_min",236,5,0.261053188689,101,3,2.30028256393
+5180,5180,"timeOnIce_s, goals_per_shot, giveaways_per_min",179,7,0.260836534671,32,3,2.3107796235
+3176,3176,"shots_per_min, blocks_per_min, takeaways_per_min",214,5,0.260791570469,95,3,2.33207627186
+3471,3471,"timeOnIce_s, shots_per_min, goals_per_shot, hits_per_min, faceOff_wins_per_attempt",256,5,0.260676054053,92,5,2.31236432643
+5201,5201,"timeOnIce_s, hits_per_min, takeaways_per_min",161,7,0.260576103513,58,3,2.3301144405
+7217,7217,"timeOnIce_s, shots_per_min, assists_per_min",126,9,0.260326393306,42,3,2.29991063646
+6257,6257,"goals_per_shot, assists_per_min, blocks_per_min",160,8,0.260174700721,35,3,2.29874813665
+3304,3304,"timeOnIce_s, assists_per_min, hits_per_min, faceOff_wins_per_attempt",216,5,0.260078522515,107,4,2.30891962064
+5196,5196,"timeOnIce_s, giveaways_per_min, hits_per_min",175,7,0.25999206576,39,3,2.33453827142
+5209,5209,"shots_per_min, goals_per_shot, hits_per_min",187,7,0.259921720966,50,3,2.31267408133
+3190,3190,"goals_per_shot, assists_per_min, hits_per_min",225,5,0.259855319811,107,3,2.30045923191
+4428,4428,"goals_per_shot, blocks_per_min, hits_per_min, faceOff_wins_per_attempt",254,6,0.259762902102,64,4,2.3288091184
+7321,7321,"blocks_per_min, hits_per_min, takeaways_per_min",130,9,0.259487201707,35,3,2.33894765025
+6236,6236,"shots_per_min, assists_per_min, blocks_per_min",137,8,0.259341375636,64,3,2.29314877023
+7266,7266,"shots_per_min, blocks_per_min, hits_per_min",135,9,0.259340184149,35,3,2.32726759977
+5234,5234,"goals_per_shot, assists_per_min, blocks_per_min",178,7,0.259334781819,59,3,2.3010665344
+5185,5185,"timeOnIce_s, assists_per_min, blocks_per_min",160,7,0.259207570446,94,3,2.30259789878
+3284,3284,"timeOnIce_s, goals_per_shot, giveaways_per_min, penaltyMinutes_per_min",247,5,0.259058979854,34,4,2.31721722571
+3311,3311,"timeOnIce_s, blocks_per_min, giveaways_per_min, faceOff_wins_per_attempt",253,5,0.25893308731,89,4,2.33500690803
+8252,8252,"timeOnIce_s, goals_per_shot, takeaways_per_min",122,10,0.25880640045,33,3,2.30958021771
+6230,6230,"shots_per_min, goals_per_shot, blocks_per_min",145,8,0.258734283863,50,3,2.31023471471
+8344,8344,"blocks_per_min, hits_per_min, takeaways_per_min",126,10,0.258668818084,39,3,2.33511248971
+3533,3533,"timeOnIce_s, goals_per_shot, blocks_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",308,5,0.258535769251,32,5,2.3177791269
+3301,3301,"timeOnIce_s, assists_per_min, giveaways_per_min, faceOff_wins_per_attempt",251,5,0.258403659115,44,4,2.30848391234
+3646,3646,"shots_per_min, giveaways_per_min, hits_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",319,5,0.258015646785,31,5,2.32938660292
+3140,3140,"timeOnIce_s, assists_per_min, giveaways_per_min",204,5,0.2579508905,75,3,2.30035522701
+3320,3320,"timeOnIce_s, giveaways_per_min, hits_per_min, faceOff_wins_per_attempt",229,5,0.257793264122,73,4,2.32904161944
+8282,8282,"shots_per_min, assists_per_min, blocks_per_min",111,10,0.257581996978,36,3,2.29482448787
+3152,3152,"timeOnIce_s, giveaways_per_min, takeaways_per_min",216,5,0.257545331601,80,3,2.33686633865
+3163,3163,"shots_per_min, goals_per_shot, hits_per_min",218,5,0.257399658383,98,3,2.31332175795
+4175,4175,"timeOnIce_s, giveaways_per_min, takeaways_per_min",208,6,0.257392091033,51,3,2.33431267058
+3299,3299,"timeOnIce_s, assists_per_min, giveaways_per_min, penaltyMinutes_per_min",269,5,0.257151723933,35,4,2.2985981612
+6217,6217,"timeOnIce_s, blocks_per_min, takeaways_per_min",161,8,0.257025018734,48,3,2.33231979962
+3579,3579,"timeOnIce_s, hits_per_min, penaltyMinutes_per_min, takeaways_per_min, faceOff_wins_per_attempt",274,5,0.256972975759,31,5,2.32182072574
+3162,3162,"shots_per_min, goals_per_shot, giveaways_per_min",199,5,0.256857771661,123,3,2.31297556765
+3265,3265,"timeOnIce_s, shots_per_min, giveaways_per_min, faceOff_wins_per_attempt",235,5,0.256726332077,40,4,2.33217616858
+4485,4485,"timeOnIce_s, shots_per_min, goals_per_shot, blocks_per_min, penaltyMinutes_per_min",234,6,0.256653644823,31,5,2.31512363019
+5323,5323,"timeOnIce_s, goals_per_shot, assists_per_min, faceOff_wins_per_attempt",182,7,0.256318200463,40,4,2.29855852029
+4190,4190,"shots_per_min, assists_per_min, blocks_per_min",174,6,0.256280222858,91,3,2.30857099115
+3127,3127,"timeOnIce_s, shots_per_min, giveaways_per_min",226,5,0.256047729106,66,3,2.32646813846
+5243,5243,"goals_per_shot, blocks_per_min, takeaways_per_min",191,7,0.256024289914,80,3,2.30936979277
+5173,5173,"timeOnIce_s, shots_per_min, giveaways_per_min",182,7,0.255983996369,31,3,2.33769605259
+5250,5250,"goals_per_shot, hits_per_min, takeaways_per_min",212,7,0.255724353463,30,3,2.30899432182
+3173,3173,"shots_per_min, blocks_per_min, giveaways_per_min",226,5,0.255502231806,94,3,2.32121725406
+6206,6206,"timeOnIce_s, goals_per_shot, takeaways_per_min",151,8,0.255308603433,42,3,2.31641434361
+4235,4235,"assists_per_min, blocks_per_min, takeaways_per_min",187,6,0.255270379701,90,3,2.30890363753
+4334,4334,"timeOnIce_s, blocks_per_min, giveaways_per_min, faceOff_wins_per_attempt",254,6,0.255231320825,30,4,2.33635839828
+6259,6259,"goals_per_shot, assists_per_min, hits_per_min",159,8,0.25522345825,37,3,2.29613029379
+8241,8241,"timeOnIce_s, shots_per_min, blocks_per_min",139,10,0.255194682358,49,3,2.3176390835
+8327,8327,"assists_per_min, blocks_per_min, takeaways_per_min",128,10,0.25509101566,31,3,2.30025899864
+3178,3178,"shots_per_min, giveaways_per_min, hits_per_min",273,5,0.255030496242,103,3,2.32464786874
+4332,4332,"timeOnIce_s, blocks_per_min, giveaways_per_min, penaltyMinutes_per_min",257,6,0.254948183058,33,4,2.3304823484
+6281,6281,"assists_per_min, blocks_per_min, takeaways_per_min",161,8,0.25486270457,34,3,2.30438887091
+5265,5265,"assists_per_min, hits_per_min, takeaways_per_min",186,7,0.254788509871,57,3,2.29701715284
+4153,4153,"timeOnIce_s, shots_per_min, takeaways_per_min",212,6,0.254748852355,80,3,2.32752384921
+3219,3219,"assists_per_min, hits_per_min, takeaways_per_min",228,5,0.254679294897,96,3,2.29848171361
+7240,7240,"timeOnIce_s, blocks_per_min, takeaways_per_min",155,9,0.254618866487,45,3,2.32655037248
+7539,7539,"blocks_per_min, hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",165,9,0.254525326741,34,4,2.33619431512
+7235,7235,"timeOnIce_s, assists_per_min, takeaways_per_min",147,9,0.254402693561,36,3,2.30814641389
+3333,3333,"shots_per_min, goals_per_shot, assists_per_min, faceOff_wins_per_attempt",190,5,0.254395507909,112,4,2.29347213849
+5213,5213,"shots_per_min, assists_per_min, blocks_per_min",162,7,0.254361177682,73,3,2.29331294335
+3477,3477,"timeOnIce_s, shots_per_min, assists_per_min, blocks_per_min, penaltyMinutes_per_min",265,5,0.254325094487,34,5,2.30375147838
+3338,3338,"shots_per_min, goals_per_shot, blocks_per_min, faceOff_wins_per_attempt",224,5,0.254256837301,134,4,2.32654225133
+3290,3290,"timeOnIce_s, goals_per_shot, penaltyMinutes_per_min, takeaways_per_min",226,5,0.254201958316,34,4,2.31465478266
+3543,3543,"timeOnIce_s, goals_per_shot, hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",270,5,0.254156389296,88,5,2.30886665226
+3526,3526,"timeOnIce_s, goals_per_shot, blocks_per_min, giveaways_per_min, penaltyMinutes_per_min",302,5,0.254138834908,35,5,2.32447253771
+5236,5236,"goals_per_shot, assists_per_min, hits_per_min",199,7,0.254049484393,46,3,2.29517378078
+3740,3740,"timeOnIce_s, shots_per_min, goals_per_shot, penaltyMinutes_per_min, takeaways_per_min, faceOff_wins_per_attempt",262,5,0.253973572347,33,6,2.31195110445
+4166,4166,"timeOnIce_s, assists_per_min, takeaways_per_min",175,6,0.25380624925,83,3,2.31556599012
+5258,5258,"assists_per_min, blocks_per_min, takeaways_per_min",163,7,0.253464449859,79,3,2.29516345629
+3365,3365,"shots_per_min, blocks_per_min, giveaways_per_min, penaltyMinutes_per_min",234,5,0.253431788131,31,4,2.32098925712
+4301,4301,"timeOnIce_s, goals_per_shot, blocks_per_min, giveaways_per_min",268,6,0.253381953266,34,4,2.32593089653
+4157,4157,"timeOnIce_s, goals_per_shot, giveaways_per_min",212,6,0.25333937829,61,3,2.31135956916
+5189,5189,"timeOnIce_s, assists_per_min, takeaways_per_min",172,7,0.253316940349,68,3,2.30847367685
+3246,3246,"timeOnIce_s, shots_per_min, goals_per_shot, giveaways_per_min",209,5,0.253275710416,57,4,2.32544834856
+3167,3167,"shots_per_min, assists_per_min, blocks_per_min",204,5,0.253187355822,140,3,2.3107365297
+5215,5215,"shots_per_min, assists_per_min, hits_per_min",193,7,0.25308565783,43,3,2.29582822116
+3803,3803,"timeOnIce_s, goals_per_shot, blocks_per_min, hits_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",259,5,0.253050935951,31,6,2.31691629141
+7261,7261,"shots_per_min, assists_per_min, hits_per_min",149,9,0.252956442949,37,3,2.29312546506
+3209,3209,"assists_per_min, blocks_per_min, giveaways_per_min",257,5,0.252897846339,109,3,2.30615998702
+7222,7222,"timeOnIce_s, shots_per_min, takeaways_per_min",139,9,0.252841542039,47,3,2.32402438493
+5575,5575,"timeOnIce_s, goals_per_shot, blocks_per_min, hits_per_min, penaltyMinutes_per_min",233,7,0.252682709772,30,5,2.31282936959
+3442,3442,"blocks_per_min, giveaways_per_min, penaltyMinutes_per_min, takeaways_per_min",309,5,0.25260353616,32,4,2.32801824988
+4882,4882,"shots_per_min, goals_per_shot, blocks_per_min, hits_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",256,6,0.252549083043,30,6,2.31726945903
+4249,4249,"blocks_per_min, giveaways_per_min, takeaways_per_min",175,6,0.252496341233,69,3,2.32978000004
+3727,3727,"timeOnIce_s, shots_per_min, goals_per_shot, blocks_per_min, hits_per_min, faceOff_wins_per_attempt",252,5,0.252293527021,84,6,2.31613695416
+8270,8270,"timeOnIce_s, hits_per_min, takeaways_per_min",111,10,0.252034962418,34,3,2.32977019529
+3302,3302,"timeOnIce_s, assists_per_min, hits_per_min, penaltyMinutes_per_min",279,5,0.251909591917,30,4,2.29858458354
+3591,3591,"shots_per_min, goals_per_shot, assists_per_min, hits_per_min, faceOff_wins_per_attempt",267,5,0.251872397596,83,5,2.3029976371
+4371,4371,"shots_per_min, goals_per_shot, takeaways_per_min, faceOff_wins_per_attempt",224,6,0.251843055213,79,4,2.32275753522
+3521,3521,"timeOnIce_s, goals_per_shot, assists_per_min, hits_per_min, faceOff_wins_per_attempt",263,5,0.251783712115,64,5,2.30040573395
+3292,3292,"timeOnIce_s, goals_per_shot, takeaways_per_min, faceOff_wins_per_attempt",238,5,0.251663269319,90,4,2.31612988094
+5428,5428,"shots_per_min, hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",219,7,0.251647820208,40,4,2.33368028034
+5369,5369,"timeOnIce_s, giveaways_per_min, takeaways_per_min, faceOff_wins_per_attempt",209,7,0.251628656152,30,4,2.33068138447
+4222,4222,"goals_per_shot, giveaways_per_min, hits_per_min",219,6,0.251553569621,37,3,2.32220744154
+3307,3307,"timeOnIce_s, assists_per_min, takeaways_per_min, faceOff_wins_per_attempt",217,5,0.251428340729,89,4,2.31264950575
+3874,3874,"shots_per_min, assists_per_min, blocks_per_min, hits_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",254,5,0.251217149199,30,6,2.30572660994
+4338,4338,"timeOnIce_s, blocks_per_min, penaltyMinutes_per_min, takeaways_per_min",237,6,0.251160274362,33,4,2.32969210554
+3370,3370,"shots_per_min, blocks_per_min, hits_per_min, faceOff_wins_per_attempt",223,5,0.251143615639,99,4,2.32730427867
+4313,4313,"timeOnIce_s, goals_per_shot, penaltyMinutes_per_min, takeaways_per_min",200,6,0.250994654091,32,4,2.30560318835
+3244,3244,"timeOnIce_s, shots_per_min, goals_per_shot, assists_per_min",238,5,0.250854608271,88,4,2.30375678508
+4242,4242,"assists_per_min, hits_per_min, takeaways_per_min",213,6,0.250835975097,68,3,2.29541795173
+3321,3321,"timeOnIce_s, giveaways_per_min, penaltyMinutes_per_min, takeaways_per_min",250,5,0.250824930421,36,4,2.32991920597
+4340,4340,"timeOnIce_s, blocks_per_min, takeaways_per_min, faceOff_wins_per_attempt",220,6,0.250816232094,92,4,2.33114019613
+5176,5176,"timeOnIce_s, shots_per_min, takeaways_per_min",180,7,0.25079498933,75,3,2.33118919397
+3314,3314,"timeOnIce_s, blocks_per_min, hits_per_min, faceOff_wins_per_attempt",223,5,0.250744841674,105,4,2.33219870083
+3371,3371,"shots_per_min, blocks_per_min, penaltyMinutes_per_min, takeaways_per_min",229,5,0.250640157925,32,4,2.32556223262
+3498,3498,"timeOnIce_s, shots_per_min, blocks_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",270,5,0.250581565464,33,5,2.32218589752
+3216,3216,"assists_per_min, giveaways_per_min, takeaways_per_min",251,5,0.250562519099,66,3,2.31047483514
+3539,3539,"timeOnIce_s, goals_per_shot, giveaways_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",294,5,0.250461828685,33,5,2.31557611628
+3768,3768,"timeOnIce_s, shots_per_min, blocks_per_min, hits_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",257,5,0.250416901418,31,6,2.32242200841
+8242,8242,"timeOnIce_s, shots_per_min, giveaways_per_min",114,10,0.250401959639,31,3,2.33294593958
+3376,3376,"shots_per_min, giveaways_per_min, hits_per_min, faceOff_wins_per_attempt",216,5,0.250400492621,92,4,2.32833168313
+3488,3488,"timeOnIce_s, shots_per_min, assists_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",248,5,0.250308295011,35,5,2.30228176026
+3623,3623,"shots_per_min, assists_per_min, blocks_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",245,5,0.250261723768,32,5,2.30669495539
+3678,3678,"goals_per_shot, blocks_per_min, hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",256,5,0.250250380287,80,5,2.31623896394
+6199,6199,"timeOnIce_s, shots_per_min, takeaways_per_min",149,8,0.250168194708,40,3,2.33025255779
+3818,3818,"timeOnIce_s, assists_per_min, blocks_per_min, hits_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",252,5,0.249987829202,30,6,2.3053963091
+3169,3169,"shots_per_min, assists_per_min, hits_per_min",222,5,0.2499339137,91,3,2.29174847753
+3549,3549,"timeOnIce_s, assists_per_min, blocks_per_min, hits_per_min, penaltyMinutes_per_min",235,5,0.249910013608,30,5,2.30845602123
+6516,6516,"blocks_per_min, hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",182,8,0.249563511416,37,4,2.33699887981
+6252,6252,"shots_per_min, hits_per_min, takeaways_per_min",177,8,0.249472617577,47,3,2.32575644647
+3281,3281,"timeOnIce_s, goals_per_shot, blocks_per_min, takeaways_per_min",261,5,0.249465427721,74,4,2.32862787425
+4454,4454,"assists_per_min, giveaways_per_min, hits_per_min, faceOff_wins_per_attempt",210,6,0.249406432647,46,4,2.31439166341
+4393,4393,"shots_per_min, blocks_per_min, hits_per_min, faceOff_wins_per_attempt",208,6,0.249360202603,34,4,2.33049722976
+3254,3254,"timeOnIce_s, shots_per_min, assists_per_min, penaltyMinutes_per_min",207,5,0.24921354427,35,4,2.29817063951
+3360,3360,"shots_per_min, assists_per_min, hits_per_min, faceOff_wins_per_attempt",216,5,0.249192932317,85,4,2.29678788431
+3258,3258,"timeOnIce_s, shots_per_min, blocks_per_min, hits_per_min",224,5,0.249158869021,114,4,2.32707814622
+3323,3323,"timeOnIce_s, giveaways_per_min, takeaways_per_min, faceOff_wins_per_attempt",277,5,0.24901325913,55,4,2.33298382304
+7304,7304,"assists_per_min, blocks_per_min, takeaways_per_min",142,9,0.248969355903,33,3,2.30107706531
+3346,3346,"shots_per_min, goals_per_shot, penaltyMinutes_per_min, takeaways_per_min",262,5,0.248905955011,30,4,2.30612178001
+3840,3840,"shots_per_min, goals_per_shot, assists_per_min, blocks_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",266,5,0.248903760698,30,6,2.30184976046
+4237,4237,"assists_per_min, giveaways_per_min, hits_per_min",255,6,0.248827705533,36,3,2.30095153781
+3411,3411,"goals_per_shot, giveaways_per_min, hits_per_min, faceOff_wins_per_attempt",269,5,0.248815211066,75,4,2.30893837114
+3576,3576,"timeOnIce_s, giveaways_per_min, hits_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",282,5,0.24875631157,33,5,2.32786378275
+8303,8303,"goals_per_shot, assists_per_min, blocks_per_min",140,10,0.248720909674,31,3,2.30039081693
+3512,3512,"timeOnIce_s, goals_per_shot, assists_per_min, blocks_per_min, penaltyMinutes_per_min",223,5,0.248667172004,31,5,2.30017888867
+4405,4405,"shots_per_min, hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",223,6,0.248654969267,73,4,2.32845547876
+8263,8263,"timeOnIce_s, blocks_per_min, takeaways_per_min",135,10,0.248534926125,42,3,2.33745649264
+4434,4434,"goals_per_shot, giveaways_per_min, hits_per_min, faceOff_wins_per_attempt",211,6,0.24851505139,58,4,2.31377565872
+3613,3613,"shots_per_min, goals_per_shot, hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",265,5,0.248437675149,93,5,2.31199877069
+7360,7360,"timeOnIce_s, shots_per_min, hits_per_min, faceOff_wins_per_attempt",123,9,0.248207804193,42,4,2.33185246588
+3611,3611,"shots_per_min, goals_per_shot, hits_per_min, penaltyMinutes_per_min, takeaways_per_min",292,5,0.248146458016,30,5,2.31999190988
+3296,3296,"timeOnIce_s, assists_per_min, blocks_per_min, takeaways_per_min",250,5,0.248130598824,96,4,2.31378473327
+4284,4284,"timeOnIce_s, shots_per_min, blocks_per_min, faceOff_wins_per_attempt",186,6,0.248125976272,86,4,2.33402819917
+6304,6304,"giveaways_per_min, hits_per_min, takeaways_per_min",184,8,0.24806867245,42,3,2.33364855261
+4361,4361,"shots_per_min, goals_per_shot, blocks_per_min, faceOff_wins_per_attempt",181,6,0.248038039642,64,4,2.31732317422
+4343,4343,"timeOnIce_s, giveaways_per_min, hits_per_min, faceOff_wins_per_attempt",209,6,0.247987267196,38,4,2.33169232041
+3565,3565,"timeOnIce_s, blocks_per_min, giveaways_per_min, hits_per_min, penaltyMinutes_per_min",321,5,0.247973196596,31,5,2.32731156023
+7244,7244,"timeOnIce_s, giveaways_per_min, takeaways_per_min",149,9,0.247884017848,32,3,2.33117038663
+3859,3859,"shots_per_min, goals_per_shot, blocks_per_min, hits_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",267,5,0.247871689383,39,6,2.32095035759
+8245,8245,"timeOnIce_s, shots_per_min, takeaways_per_min",133,10,0.247847401209,32,3,2.33202224003
+3249,3249,"timeOnIce_s, shots_per_min, goals_per_shot, takeaways_per_min",213,5,0.247756166573,103,4,2.31472822446
+3406,3406,"goals_per_shot, blocks_per_min, penaltyMinutes_per_min, takeaways_per_min",226,5,0.247734698225,30,4,2.31362931014
+3374,3374,"shots_per_min, giveaways_per_min, hits_per_min, penaltyMinutes_per_min",259,5,0.24768914826,30,4,2.32183857476
+3400,3400,"goals_per_shot, blocks_per_min, giveaways_per_min, penaltyMinutes_per_min",253,5,0.247602107911,30,4,2.31519062265
+4636,4636,"shots_per_min, goals_per_shot, hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",258,6,0.247519777946,59,5,2.31154849707
+3635,3635,"shots_per_min, blocks_per_min, giveaways_per_min, hits_per_min, penaltyMinutes_per_min",321,5,0.247495596566,30,5,2.32730491185
+3272,3272,"timeOnIce_s, goals_per_shot, assists_per_min, blocks_per_min",215,5,0.247401381587,104,4,2.3046377147
+5372,5372,"timeOnIce_s, hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",182,7,0.247335001771,43,4,2.3306320657
+5318,5318,"timeOnIce_s, goals_per_shot, assists_per_min, blocks_per_min",175,7,0.246933011377,53,4,2.30399877074
+4572,4572,"timeOnIce_s, assists_per_min, blocks_per_min, hits_per_min, penaltyMinutes_per_min",224,6,0.246890626775,30,5,2.30676055667
+4556,4556,"timeOnIce_s, goals_per_shot, blocks_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",244,6,0.246870310456,30,5,2.31587637424
+3895,3895,"goals_per_shot, assists_per_min, blocks_per_min, hits_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",262,5,0.246707587132,30,6,2.29915460186
+3331,3331,"shots_per_min, goals_per_shot, assists_per_min, penaltyMinutes_per_min",263,5,0.246671665427,30,4,2.29659920482
+4346,4346,"timeOnIce_s, giveaways_per_min, takeaways_per_min, faceOff_wins_per_attempt",211,6,0.246602025564,54,4,2.33109256545
+4188,4188,"shots_per_min, goals_per_shot, takeaways_per_min",187,6,0.246527536687,70,3,2.31169162093
+5574,5574,"timeOnIce_s, goals_per_shot, blocks_per_min, giveaways_per_min, faceOff_wins_per_attempt",264,7,0.246479797067,30,5,2.32729805319
+3681,3681,"goals_per_shot, giveaways_per_min, hits_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",315,5,0.246412992165,31,5,2.32524900249
+5384,5384,"shots_per_min, goals_per_shot, blocks_per_min, faceOff_wins_per_attempt",172,7,0.246412476093,60,4,2.32105415804
+5416,5416,"shots_per_min, blocks_per_min, hits_per_min, faceOff_wins_per_attempt",162,7,0.24624409104,53,4,2.3260729361
+3468,3468,"timeOnIce_s, shots_per_min, goals_per_shot, giveaways_per_min, faceOff_wins_per_attempt",236,5,0.246053549855,48,5,2.32782256154
+4418,4418,"goals_per_shot, assists_per_min, hits_per_min, faceOff_wins_per_attempt",176,6,0.245969706016,74,4,2.29628876159
+4281,4281,"timeOnIce_s, shots_per_min, blocks_per_min, hits_per_min",193,6,0.245954334994,87,4,2.32729897302
+4300,4300,"timeOnIce_s, goals_per_shot, assists_per_min, faceOff_wins_per_attempt",181,6,0.245852315451,63,4,2.2994903529
+4440,4440,"goals_per_shot, hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",215,6,0.24580762579,67,4,2.31174986905
+5493,5493,"blocks_per_min, hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",191,7,0.245746662186,38,4,2.33466436916
+5320,5320,"timeOnIce_s, goals_per_shot, assists_per_min, hits_per_min",193,7,0.24571608936,38,4,2.2933733294
+3670,3670,"goals_per_shot, blocks_per_min, giveaways_per_min, hits_per_min, penaltyMinutes_per_min",307,5,0.245668772505,31,5,2.32491643801
+3451,3451,"giveaways_per_min, hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",241,5,0.245574262365,88,4,2.32866598313
+6196,6196,"timeOnIce_s, shots_per_min, giveaways_per_min",168,8,0.245540050714,33,3,2.33478041706
+4268,4268,"timeOnIce_s, shots_per_min, goals_per_shot, blocks_per_min",207,6,0.245516541243,90,4,2.30575678287
+4356,4356,"shots_per_min, goals_per_shot, assists_per_min, faceOff_wins_per_attempt",185,6,0.245384914693,85,4,2.29743322188
+4220,4220,"goals_per_shot, blocks_per_min, takeaways_per_min",182,6,0.245379677238,98,3,2.31400228206
+3340,3340,"shots_per_min, goals_per_shot, giveaways_per_min, penaltyMinutes_per_min",260,5,0.245340746185,30,4,2.31509040641
+3431,3431,"assists_per_min, giveaways_per_min, hits_per_min, faceOff_wins_per_attempt",225,5,0.245299111002,88,4,2.30753810482
+3189,3189,"goals_per_shot, assists_per_min, giveaways_per_min",220,5,0.245195151669,103,3,2.29963649924
+3276,3276,"timeOnIce_s, goals_per_shot, assists_per_min, takeaways_per_min",211,5,0.245190428908,116,4,2.31139269627
+3388,3388,"goals_per_shot, assists_per_min, blocks_per_min, faceOff_wins_per_attempt",191,5,0.245176825829,131,4,2.30860126409
+3481,3481,"timeOnIce_s, shots_per_min, assists_per_min, giveaways_per_min, penaltyMinutes_per_min",263,5,0.245093757954,35,5,2.30373241124
+6245,6245,"shots_per_min, blocks_per_min, takeaways_per_min",163,8,0.244944866258,42,3,2.32534407385
+3469,3469,"timeOnIce_s, shots_per_min, goals_per_shot, hits_per_min, penaltyMinutes_per_min",257,5,0.244850566134,34,5,2.31980235959
+3668,3668,"goals_per_shot, assists_per_min, hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",268,5,0.244802761605,74,5,2.3053933437
+6288,6288,"assists_per_min, hits_per_min, takeaways_per_min",171,8,0.244664282535,47,3,2.30815832042
+3271,3271,"timeOnIce_s, shots_per_min, takeaways_per_min, faceOff_wins_per_attempt",218,5,0.244663963459,100,4,2.3321381607
+3758,3758,"timeOnIce_s, shots_per_min, assists_per_min, hits_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",252,5,0.244626569376,30,6,2.30684815496
+5399,5399,"shots_per_min, assists_per_min, blocks_per_min, faceOff_wins_per_attempt",187,7,0.244557280004,83,4,2.30837687378
+3676,3676,"goals_per_shot, blocks_per_min, hits_per_min, penaltyMinutes_per_min, takeaways_per_min",275,5,0.24448279372,31,5,2.32285202373
+3717,3717,"timeOnIce_s, shots_per_min, goals_per_shot, assists_per_min, hits_per_min, faceOff_wins_per_attempt",249,5,0.244405879135,82,6,2.30308052812
+4521,4521,"timeOnIce_s, shots_per_min, blocks_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",219,6,0.244404903005,33,5,2.32824179008
+5245,5245,"goals_per_shot, giveaways_per_min, hits_per_min",194,7,0.244353904693,32,3,2.32454483905
+3342,3342,"shots_per_min, goals_per_shot, giveaways_per_min, faceOff_wins_per_attempt",206,5,0.244340848739,99,4,2.32392651006
+6229,6229,"shots_per_min, goals_per_shot, assists_per_min",150,8,0.244330627829,66,3,2.29352315123
+4320,4320,"timeOnIce_s, assists_per_min, blocks_per_min, faceOff_wins_per_attempt",190,6,0.244285354381,93,4,2.30866791118
+4173,4173,"timeOnIce_s, giveaways_per_min, hits_per_min",224,6,0.244221184134,39,3,2.33142508318
+4227,4227,"goals_per_shot, hits_per_min, takeaways_per_min",194,6,0.244126771632,70,3,2.31017481297
+3422,3422,"assists_per_min, blocks_per_min, giveaways_per_min, faceOff_wins_per_attempt",221,5,0.243957210194,87,4,2.30491488146
+5419,5419,"shots_per_min, blocks_per_min, takeaways_per_min, faceOff_wins_per_attempt",207,7,0.243784703671,60,4,2.33446319691
+4425,4425,"goals_per_shot, blocks_per_min, giveaways_per_min, faceOff_wins_per_attempt",194,6,0.243778310599,39,4,2.31154656551
+5347,5347,"timeOnIce_s, assists_per_min, giveaways_per_min, faceOff_wins_per_attempt",178,7,0.243755715754,41,4,2.3035883306
+5463,5463,"goals_per_shot, hits_per_min, takeaways_per_min, faceOff_wins_per_attempt",215,7,0.243737859886,34,4,2.31631230614
+7268,7268,"shots_per_min, blocks_per_min, takeaways_per_min",169,9,0.243702571847,36,3,2.32464845112
+5222,5222,"shots_per_min, blocks_per_min, takeaways_per_min",156,7,0.243630985367,49,3,2.32878108233
+3523,3523,"timeOnIce_s, goals_per_shot, assists_per_min, penaltyMinutes_per_min, faceOff_wins_per_attempt",258,5,0.243597837161,32,5,2.3005847459
+7517,7517,"assists_per_min, blocks_per_min, hits_per_min, faceOff_wins_per_attempt",166,9,0.243588475892,34,4,2.30002264321
